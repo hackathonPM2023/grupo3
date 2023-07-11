@@ -23,8 +23,8 @@ registronacimientop As screen:
         Height: =66
         Size: =20
         Width: =594
-        X: =31
-        Y: =366
+        X: =15
+        Y: =342
         ZIndex: =2
 
     DatePicker1 As datepicker:
@@ -38,12 +38,36 @@ registronacimientop As screen:
         ZIndex: =3
 
     Button4 As button:
-        Fill: =RGBA(219, 219, 219, 1)
+        Fill: =RGBA(251, 188, 159, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
         Height: =70
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
         Size: =24
         Text: ="Next"
         Width: =280
         X: =314
         Y: =974
         ZIndex: =4
+
+    Image4 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =197
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='logo png_2'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =222
+        X: =201
+        Y: =40
+        ZIndex: =5
 

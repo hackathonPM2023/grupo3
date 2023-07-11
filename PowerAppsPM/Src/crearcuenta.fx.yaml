@@ -10,7 +10,7 @@ crearcuenta As screen:
         Height: =58
         Size: =34
         Width: =517
-        X: =75
+        X: =74
         Y: =227
         ZIndex: =1
 
@@ -23,23 +23,24 @@ crearcuenta As screen:
         Height: =66
         Size: =34
         Width: =484
-        X: =108
+        X: =91
         Y: =285
         ZIndex: =2
 
     Button1 As button:
         Align: =Align.Left
-        BorderThickness: =4
+        BorderThickness: =7
         DisabledBorderColor: =RGBA(118, 0, 0, 1)
         DisabledColor: =RGBA(175, 191, 224, 1)
         DisabledFill: =RGBA(118, 0, 0, 1)
-        Fill: =RGBA(175, 191, 224, 1)
+        Fill: =RGBA(187, 221, 140, 1)
         Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
         Height: =70
-        RadiusBottomLeft: =12
-        RadiusBottomRight: =12
-        RadiusTopLeft: =12
-        RadiusTopRight: =12
+        RadiusBottomLeft: =17
+        RadiusBottomRight: =17
+        RadiusTopLeft: =17
+        RadiusTopRight: =17
         Size: =27
         Text: ="Name"
         Width: =472
@@ -49,14 +50,15 @@ crearcuenta As screen:
 
     Button2 As button:
         Align: =Align.Left
-        BorderThickness: =4
-        Fill: =RGBA(175, 191, 224, 1)
+        BorderThickness: =7
+        Fill: =RGBA(187, 221, 140, 1)
         Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
         Height: =73
-        RadiusBottomLeft: =12
-        RadiusBottomRight: =12
-        RadiusTopLeft: =12
-        RadiusTopRight: =12
+        RadiusBottomLeft: =17
+        RadiusBottomRight: =17
+        RadiusTopLeft: =17
+        RadiusTopRight: =17
         Size: =27
         Text: ="Last name (optional)"
         Width: =472
