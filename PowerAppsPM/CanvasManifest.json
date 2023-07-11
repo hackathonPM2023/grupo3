@@ -114,7 +114,7 @@
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Timebi - copia1",
+    "Name": "Timebi",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
@@ -136,6 +136,7 @@
     "registrodesesion5",
     "securep",
     "selectdisp",
-    "welocmep"
+    "welocmep",
+    "RegistrodeSesión"
   ]
 }

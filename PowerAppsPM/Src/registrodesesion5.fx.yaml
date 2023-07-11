@@ -7,7 +7,7 @@ registrodesesion5 As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(0, 0, 0, 1)
-        Height: =57
+        Height: =77
         Width: =68
         X: =20
         Y: =25
