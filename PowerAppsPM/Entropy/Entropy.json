@@ -23,12 +23,14 @@
     "TextInput4": 17,
     "TextInput5": 12,
     "TextInput7": 21,
-    "TextInput7_1": 24,
-    "TextInput8": 25
+    "TextInput8": 25,
+    "TextInput8_1": 31,
+    "TextInput8_2": 32,
+    "TextInput8_3": 33
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:55:00",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:16:20",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -94,8 +96,10 @@
     "TextInput4": {},
     "TextInput5": {},
     "TextInput7": {},
-    "TextInput7_1": {},
-    "TextInput8": {}
+    "TextInput8": {},
+    "TextInput8_1": {},
+    "TextInput8_2": {},
+    "TextInput8_3": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -121,8 +125,10 @@
     "TextInput4": 8,
     "TextInput5": 12,
     "TextInput7": 1,
-    "TextInput7_1": 14,
-    "TextInput8": 15
+    "TextInput8": 14,
+    "TextInput8_1": 15,
+    "TextInput8_2": 16,
+    "TextInput8_3": 17
   },
   "ResourcesJsonIndices": {
     "Image-descarga": 1,
@@ -147,7 +153,7 @@
       "image": 2,
       "radio": 1,
       "screen": 4,
-      "text": 6
+      "text": 14
     },
     "DeserializationLoadTime": 0.8513432
   },
