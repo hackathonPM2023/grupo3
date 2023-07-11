@@ -1,2 +1,49 @@
 crearcuenta As screen:
+    Fill: =RGBA(204, 231, 246, 1)
+
+    TextInput1 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Default: ="Entrada de texto"
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =58
+        Size: =34
+        Width: =517
+        X: =75
+        Y: =227
+        ZIndex: =1
+
+    Button2 As button:
+        Align: =Align.Left
+        BorderThickness: =4
+        Fill: =RGBA(175, 191, 224, 1)
+        Font: =Font.'Courier New'
+        Height: =73
+        RadiusBottomLeft: =12
+        RadiusBottomRight: =12
+        RadiusTopLeft: =12
+        RadiusTopRight: =12
+        Size: =27
+        Text: ="Last name (optional)"
+        Width: =472
+        X: =33
+        Y: =539
+        ZIndex: =4
+
+    Button3 As button:
+        BorderThickness: =4
+        Fill: =RGBA(175, 191, 224, 1)
+        Font: =Font.'Courier New'
+        Height: =70
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Next"
+        Width: =280
+        X: =312
+        Y: =963
+        ZIndex: =5
 

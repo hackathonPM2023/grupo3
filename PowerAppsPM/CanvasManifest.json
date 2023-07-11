@@ -133,6 +133,9 @@
   "ScreenOrder": [
     "Logo",
     "crearcuenta",
-    "RegitrodeSeción1"
+    "RegitrodeSeción1",
+    "escogeremailp",
+    "Registrodesesión2",
+    "registronacimientop"
   ]
 }
