@@ -1,4 +1,54 @@
 Logo As screen:
-    BackgroundImage: =images_1
+    BackgroundImage: =descarga
+    Fill: =RGBA(0, 0, 0, 0)
+    ImagePosition: =ImagePosition.Stretch
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image1 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        DisplayMode: =DisplayMode.View
+        FocusedBorderThickness: =4
+        Height: =254
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='logo png'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =254
+        X: =209
+        Y: =141
+        ZIndex: =1
+
+    TextInput1 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        Default: ="Timebi"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =75
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(50, 49, 48, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =30
+        Width: =182
+        X: =245
+        Y: =951
+        ZIndex: =2
 
