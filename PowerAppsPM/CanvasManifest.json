@@ -94,7 +94,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -113,7 +113,7 @@
     "Id": "7b7a4021-fc36-48f5-bdb3-71f8881e5b5a",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Timebi",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
