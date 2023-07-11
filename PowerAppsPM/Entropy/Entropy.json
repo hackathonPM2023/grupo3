@@ -1,93 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "crearcuenta": 4,
-    "Host": 3,
-    "Image1": 7,
-    "Logo": 5,
-    "TextInput1": 8
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:27:03",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "descarga": "ce4a9843-feae-4ad7-bc6f-3089c71df287.jpg",
-    "header_limpio": "a2bdcfc9-b226-4fb9-ab82-ecc2415b9ca3.jpg",
-    "images": "0001.jpg",
-    "images_1": "0002.jpg",
-    "images_2": "cb73d274-c3a5-4b06-bc32-859b84d0e0e5.jpg",
-    "logo png": "256ba370-1c0d-4971-a23b-7699cb334ab5.png",
-    "resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial": "0c305fe0-180b-4d64-b5d5-8cf5aab77c24.jpg",
-    "resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial_1": "9da4785c-fcaa-4664-af3f-6b8721ae3818.jpg",
-    "resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial_2": "625cac74-a4a3-4725-b811-66bb5e4768ba.jpg",
-    "Screenshot 2023-07-11 142754": "0003.png"
-  },
-  "LocalResourceRootPaths": {
-    "descarga": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/9be12c0f-7fbc-44f5-aeca-6459a244f4eb.jpg?sv=2018-03-28&sr=b&sig=rB2vAteaHm41l5o%2B%2BV80NfU3PXS1Vwa59djwdopwKQo%3D&spr=https&se=2023-07-12T20%3A41%3A41Z&sp=r",
-    "header_limpio": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/53da48e2-b4c2-4819-af4c-615c0e78dab8.jpg?sv=2018-03-28&sr=b&sig=785xACHYIIFXPR03GTUGad8DcotoE4hOpvjwNMaKWQg%3D&spr=https&se=2023-07-12T20%3A23%3A37Z&sp=r",
-    "images": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/Assets0Images00001.jpg?sv=2018-03-28&sr=b&sig=hhyWjwDg1%2BWfzyw%2FNaCToKWfgO9o%2FZduIukREM02tjE%3D&spr=https&se=2023-07-12T20%3A03%3A07Z&sp=r",
-    "images_1": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=bLJt2k20f6BXZV%2BK1upexgECBAK3dx1E4JSfV2XfWq8%3D&spr=https&se=2023-07-12T20%3A03%3A07Z&sp=r",
-    "images_2": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/f1ef1c53-75a8-4ffe-8712-136c8de894b8.jpg?sv=2018-03-28&sr=b&sig=rTUJovx4Vpv%2BoKKFwD5ZQyABnampo97ejBZJBCrl7Qk%3D&spr=https&se=2023-07-12T20%3A41%3A12Z&sp=r",
-    "logo png": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/e6bdb400-60ce-43de-9ff0-bde78db150a5.png?sv=2018-03-28&sr=b&sig=yVWLw45yruRuTClGe5VsxcBOfcp44I55elEeHXY7%2FQg%3D&spr=https&se=2023-07-12T20%3A09%3A56Z&sp=r",
-    "resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/3c5c7eee-9cfe-4503-b1c3-492d71be5000.jpg?sv=2018-03-28&sr=b&sig=IUveg%2F58SN1pLDnRgGeZDb1hTQnx1dKYdDK%2FahaB%2FSU%3D&spr=https&se=2023-07-12T20%3A18%3A04Z&sp=r",
-    "resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial_1": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/cf1e1635-6617-415b-b234-b6f711649b42.jpg?sv=2018-03-28&sr=b&sig=VhmKhCpbeoSmlo6QL%2FHuKIxzPGA0phk9CBG%2FbCc6ZQA%3D&spr=https&se=2023-07-12T20%3A18%3A37Z&sp=r",
-    "resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial_2": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/b657703f-f852-42b2-bb9f-7a11b5c2a362.jpg?sv=2018-03-28&sr=b&sig=B8eVs%2B3SmT%2FRuGJnNnzUUhA0S4Za3nYIVFavhM8PvLk%3D&spr=https&se=2023-07-12T20%3A21%3A26Z&sp=r",
-    "Screenshot 2023-07-11 142754": "https://docserverpwaprodwus.blob.core.windows.net/587414cc-1965-464e-9834-8c1ff0fd8785-1/resource/Assets0Images00003.png?sv=2018-03-28&sr=b&sig=7AYY4TRSsf0EBlN31O1FglngyaP2zxVdKPNmIkRPI78%3D&spr=https&se=2023-07-12T20%3A03%3A07Z&sp=r"
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "image": 0,
-    "text": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "crearcuenta": {},
-    "Host": {},
-    "Image1": {},
-    "Logo": {},
-    "TextInput1": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "crearcuenta": 3,
-    "Host": 0,
-    "Image1": 0,
-    "Logo": 4,
-    "TextInput1": 0
-  },
-  "ResourcesJsonIndices": {
-    "Image-descarga": 10,
-    "Image-header_limpio": 8,
-    "Image-images": 0,
-    "Image-images_1": 1,
-    "Image-images_2": 9,
-    "Image-logo png": 4,
-    "Image-resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial": 5,
-    "Image-resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial_1": 6,
-    "Image-resumen-borroso-estudio-degradado-verde-vacio-bien-uso-como-fondo-plantilla-sitio-web-marco-informe-empresarial_2": 7,
-    "Image-SampleImage": 3,
-    "Image-Screenshot 2023-07-11 142754": 2
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0070713,
-    "ControlCount": {
-      "screen": 2
-    },
-    "DeserializationLoadTime": 0.4155266
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
