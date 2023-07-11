@@ -132,6 +132,8 @@
   },
   "ScreenOrder": [
     "Logo",
-    "crearcuenta"
+    "crearcuenta",
+    "registronacimientop",
+    "escogeremailp"
   ]
 }

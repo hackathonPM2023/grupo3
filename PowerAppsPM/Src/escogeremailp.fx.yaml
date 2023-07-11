@@ -1,0 +1,25 @@
+escogeremailp As screen:
+    Fill: =RGBA(204, 231, 246, 1)
+
+    TextInput5 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        Default: ="Entrada de texto"
+        Fill: =RGBA(0, 0, 0, 0)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =76
+        Size: =36
+        Width: =534
+        X: =54
+        Y: =310
+        ZIndex: =1
+
+    Radio1 As radio:
+        Height: =164
+        Items: =RadioSample
+        Size: =21
+        Width: =300
+        X: =40
+        Y: =40
+        ZIndex: =2
+
