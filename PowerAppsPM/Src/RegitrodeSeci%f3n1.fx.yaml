@@ -72,6 +72,7 @@ RegitrodeSeción1 As screen:
         HoverBorderColor: =RGBA(127, 178, 57, 1)
         HoverColor: =RGBA(50, 49, 48, 1)
         HoverFill: =RGBA(187, 221, 140, 1)
+        Mode: =TextMode.Password
         PressedBorderColor: =RGBA(127, 178, 57, 1)
         PressedColor: =RGBA(50, 49, 48, 1)
         PressedFill: =RGBA(187, 221, 140, 1)
