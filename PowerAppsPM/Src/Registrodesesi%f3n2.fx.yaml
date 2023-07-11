@@ -142,3 +142,32 @@ Registrodesesión2 As screen:
         Y: =705
         ZIndex: =8
 
+    Button1_2 As button:
+        BorderColor: =RGBA(151, 0, 0, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =7
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(203, 102, 102, 1)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(220, 153, 153, 1)
+        Font: =Font.'Segoe UI'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(203, 102, 102, 1)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(203, 102, 102, 1)
+        PressedBorderColor: =RGBA(203, 102, 102, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(203, 102, 102, 1)
+        RadiusBottomLeft: =17
+        RadiusBottomRight: =17
+        RadiusTopLeft: =17
+        RadiusTopRight: =17
+        Size: =24
+        Text: ="Log in"
+        Width: =280
+        X: =335
+        Y: =878
+        ZIndex: =9
+
