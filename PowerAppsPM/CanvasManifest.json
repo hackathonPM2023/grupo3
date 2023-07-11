@@ -130,15 +130,5 @@
     "PublishTarget": "player",
     "UserLocale": "es-ES"
   },
-  "ScreenOrder": [
-    "Logo",
-    "crearcuenta",
-    "RegitrodeSeción1",
-    "RegistrodeSesión2",
-    "escogeremailp",
-    "registronacimientop",
-    "RegistrodeSesión3",
-    "informacionbasica",
-    "Registrodesesión4"
-  ]
+  "ScreenOrder": []
 }

@@ -1,4 +1,0 @@
-RegistrodeSesión2 As screen:
-    Fill: =RGBA(204, 231, 246, 1)
-    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
-
