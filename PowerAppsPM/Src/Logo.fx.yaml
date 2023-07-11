@@ -20,7 +20,7 @@ Logo As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =254
         X: =209
-        Y: =141
+        Y: =138
         ZIndex: =1
 
     TextInput1 As text:
