@@ -3,6 +3,9 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Arrow2": 40,
+    "Arrow2_1": 41,
+    "Arrow2_2": 42,
     "Button1": 31,
     "Button1_1": 30,
     "Button1_2": 32,
@@ -20,6 +23,7 @@
     "Logo": 11,
     "Radio1": 9,
     "Registrodesesión2": 14,
+    "Registrodesesión4": 33,
     "registronacimientop": 20,
     "RegitrodeSeción1": 25,
     "TextInput1": 5,
@@ -28,15 +32,18 @@
     "TextInput3": 21,
     "TextInput4": 22,
     "TextInput5": 10,
+    "TextInput6": 34,
     "TextInput7": 13,
     "TextInput8": 16,
     "TextInput8_1": 17,
     "TextInput8_2": 18,
-    "TextInput8_3": 19
+    "TextInput8_3": 19,
+    "TextInput9": 35,
+    "TextInput9_1": 36
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:18:02",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 21:32:49",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -80,15 +87,19 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
+    "arrow": 4,
     "button": 1,
-    "datepicker": 4,
+    "datepicker": 5,
     "image": 3,
-    "label": 5,
+    "label": 6,
     "radio": 2,
     "text": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
+    "Arrow2": {},
+    "Arrow2_1": {},
+    "Arrow2_2": {},
     "Button1": {},
     "Button1_1": {},
     "Button1_2": {},
@@ -106,6 +117,7 @@
     "Logo": {},
     "Radio1": {},
     "Registrodesesión2": {},
+    "Registrodesesión4": {},
     "registronacimientop": {},
     "RegitrodeSeción1": {},
     "TextInput1": {},
@@ -114,16 +126,22 @@
     "TextInput3": {},
     "TextInput4": {},
     "TextInput5": {},
+    "TextInput6": {},
     "TextInput7": {},
     "TextInput8": {},
     "TextInput8_1": {},
     "TextInput8_2": {},
-    "TextInput8_3": {}
+    "TextInput8_3": {},
+    "TextInput9": {},
+    "TextInput9_1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "Arrow2": 0,
+    "Arrow2_1": 0,
+    "Arrow2_2": 0,
     "Button1": 30,
     "Button1_1": 29,
     "Button1_2": 30,
@@ -141,6 +159,7 @@
     "Logo": 10,
     "Radio1": 8,
     "Registrodesesión2": 13,
+    "Registrodesesión4": 0,
     "registronacimientop": 19,
     "RegitrodeSeción1": 24,
     "TextInput1": 4,
@@ -149,11 +168,14 @@
     "TextInput3": 20,
     "TextInput4": 21,
     "TextInput5": 9,
+    "TextInput6": 0,
     "TextInput7": 12,
     "TextInput8": 15,
     "TextInput8_1": 16,
     "TextInput8_2": 17,
-    "TextInput8_3": 18
+    "TextInput8_3": 18,
+    "TextInput9": 0,
+    "TextInput9_1": 0
   },
   "ResourcesJsonIndices": {
     "Image-descarga": 1,
@@ -176,13 +198,14 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0509603,
     "ControlCount": {
+      "arrow": 2,
       "button": 6,
       "datepicker": 1,
       "image": 3,
       "label": 1,
       "radio": 1,
       "screen": 6,
-      "text": 11
+      "text": 13
     },
     "DeserializationLoadTime": 0.9391069
   },

@@ -171,3 +171,14 @@ Registrodesesión2 As screen:
         Y: =878
         ZIndex: =9
 
+    Arrow2_1 As arrow.backArrow:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =57
+        Width: =68
+        X: =20
+        Y: =25
+        ZIndex: =10
+

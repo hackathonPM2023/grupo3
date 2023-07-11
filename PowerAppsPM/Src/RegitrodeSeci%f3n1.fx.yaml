@@ -160,3 +160,14 @@ RegitrodeSeción1 As screen:
         Y: =948
         ZIndex: =6
 
+    Arrow2 As arrow.backArrow:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =57
+        Width: =68
+        X: =20
+        Y: =25
+        ZIndex: =7
+
