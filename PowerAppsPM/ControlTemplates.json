@@ -13,6 +13,20 @@
     "OverridableProperties": {},
     "Version": "1.0"
   },
+  "arrow": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/shapes/arrow",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "arrow",
+    "OverridableProperties": {},
+    "Version": "2.3.0"
+  },
   "button": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
@@ -54,6 +68,20 @@
     "Name": "datepicker",
     "OverridableProperties": {},
     "Version": "2.6.0"
+  },
+  "dropdown": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/dropdown",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "dropdown",
+    "OverridableProperties": {},
+    "Version": "2.3.1"
   },
   "groupContainer": {
     "FirstParty": true,
@@ -107,6 +135,20 @@
     "Name": "image",
     "OverridableProperties": {},
     "Version": "2.2.2"
+  },
+  "label": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/label",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "label",
+    "OverridableProperties": {},
+    "Version": "2.5.1"
   },
   "radio": {
     "CustomGroupControlTemplateName": "",
