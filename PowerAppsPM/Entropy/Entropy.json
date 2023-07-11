@@ -3,12 +3,13 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "crearcuenta": 5,
     "Host": 3,
     "Logo": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:43:35",
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 19:44:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,6 +24,7 @@
   "OrderXMLTemplate": {},
   "OverridablePropertiesEntry": {
     "App": {},
+    "crearcuenta": {},
     "Host": {},
     "Logo": {}
   },
@@ -30,6 +32,7 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "crearcuenta": 0,
     "Host": 0,
     "Logo": 3
   },
@@ -37,11 +40,11 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0051364,
+    "AnalysisLoadTime": 0.0358579,
     "ControlCount": {
       "screen": 1
     },
-    "DeserializationLoadTime": 0.1859287
+    "DeserializationLoadTime": 0.7263647
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

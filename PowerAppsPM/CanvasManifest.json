@@ -131,6 +131,7 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Logo"
+    "Logo",
+    "crearcuenta"
   ]
 }
