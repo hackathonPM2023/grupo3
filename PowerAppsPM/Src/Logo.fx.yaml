@@ -19,7 +19,36 @@ Logo As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =254
-        X: =209
-        Y: =138
+        X: =208
+        Y: =158
         ZIndex: =1
+
+    TextInput7 As text:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        Default: ="Timebi"
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =86
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(50, 49, 48, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =30
+        Width: =173
+        X: =249
+        Y: =896
+        ZIndex: =2
 
