@@ -1,2 +1,4 @@
 Logo As screen:
+    BackgroundImage: =images_1
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
