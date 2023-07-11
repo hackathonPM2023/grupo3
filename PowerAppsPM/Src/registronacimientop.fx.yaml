@@ -38,10 +38,13 @@ registronacimientop As screen:
         ZIndex: =3
 
     Button4 As button:
+        BorderThickness: =4
+        Color: =RGBA(172, 62, 11, 1)
         Fill: =RGBA(251, 188, 159, 1)
         Font: =Font.'Courier New'
         FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate(escogeremailp)
         RadiusBottomLeft: =102
         RadiusBottomRight: =102
         RadiusTopLeft: =102
@@ -49,8 +52,8 @@ registronacimientop As screen:
         Size: =24
         Text: ="Next"
         Width: =280
-        X: =314
-        Y: =974
+        X: =329
+        Y: =1017
         ZIndex: =4
 
     Image4 As image:
@@ -60,14 +63,14 @@ registronacimientop As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =197
+        Height: =211
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: ='logo png_2'
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =222
-        X: =201
-        Y: =40
+        Width: =246
+        X: =189
+        Y: =26
         ZIndex: =5
 

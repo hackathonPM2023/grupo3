@@ -10,8 +10,8 @@ crearcuenta As screen:
         Height: =58
         Size: =34
         Width: =517
-        X: =74
-        Y: =227
+        X: =73
+        Y: =258
         ZIndex: =1
 
     TextInput2 As text:
@@ -23,13 +23,15 @@ crearcuenta As screen:
         Height: =66
         Size: =34
         Width: =484
-        X: =91
-        Y: =285
+        X: =90
+        Y: =316
         ZIndex: =2
 
     Button1 As button:
         Align: =Align.Left
+        BorderStyle: =BorderStyle.None
         BorderThickness: =7
+        Color: =RGBA(0, 0, 0, 1)
         DisabledBorderColor: =RGBA(118, 0, 0, 1)
         DisabledColor: =RGBA(175, 191, 224, 1)
         DisabledFill: =RGBA(118, 0, 0, 1)
@@ -50,7 +52,9 @@ crearcuenta As screen:
 
     Button2 As button:
         Align: =Align.Left
+        BorderStyle: =BorderStyle.None
         BorderThickness: =7
+        Color: =RGBA(0, 0, 0, 1)
         Fill: =RGBA(187, 221, 140, 1)
         Font: =Font.'Courier New'
         FontWeight: =FontWeight.Semibold
@@ -68,9 +72,12 @@ crearcuenta As screen:
 
     Button3 As button:
         BorderThickness: =4
-        Fill: =RGBA(175, 191, 224, 1)
+        Color: =RGBA(172, 62, 11, 1)
+        Fill: =RGBA(251, 188, 159, 1)
         Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
         Height: =70
+        OnSelect: =Navigate(registronacimientop)
         RadiusBottomLeft: =102
         RadiusBottomRight: =102
         RadiusTopLeft: =102
@@ -78,7 +85,25 @@ crearcuenta As screen:
         Size: =24
         Text: ="Next"
         Width: =280
-        X: =312
-        Y: =963
+        X: =324
+        Y: =1032
         ZIndex: =5
+
+    Image6 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =220
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='logo png_4'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =256
+        X: =163
+        Y: =7
+        ZIndex: =6
 

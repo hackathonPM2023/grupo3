@@ -110,17 +110,17 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "7b7a4021-fc36-48f5-bdb3-71f8881e5b5a",
-    "Id": "7b7a4021-fc36-48f5-bdb3-71f8881e5b5a",
+    "Id": "f9b7aab9-a80f-4044-b4f3-6d95ae441faf",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Timebi",
+    "Name": "Timebi - copia1",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "Timebi",
+    "AppName": "Timebi - copia1",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -134,6 +134,10 @@
     "Logo",
     "crearcuenta",
     "registronacimientop",
-    "escogeremailp"
+    "escogeremailp",
+    "securep",
+    "childaccp",
+    "selectdisp",
+    "welocmep"
   ]
 }
