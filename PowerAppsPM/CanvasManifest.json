@@ -110,17 +110,17 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "7b7a4021-fc36-48f5-bdb3-71f8881e5b5a",
-    "Id": "7b7a4021-fc36-48f5-bdb3-71f8881e5b5a",
+    "Id": "4e4ce9f2-5fef-4726-91ce-72767796ebce",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "Timebi",
+    "Name": "Timebi - copia",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
   },
   "PublishInfo": {
-    "AppName": "Timebi",
+    "AppName": "Timebi - copia",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -137,7 +137,7 @@
     "Registrodesesión2",
     "escogeremailp",
     "registronacimientop",
-    "informacionbasica",
+    "registrodesesion5",
     "Registrodesesión4"
   ]
 }
