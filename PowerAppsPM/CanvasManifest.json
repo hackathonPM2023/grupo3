@@ -97,7 +97,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 1,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -131,15 +131,11 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Logo",
-    "crearcuenta",
-    "registronacimientop",
-    "escogeremailp",
-    "securep",
-    "childaccp",
-    "selectdisp",
-    "welocmep",
     "Aplicación1",
-    "registrodesesion5"
+    "childaccp",
+    "registrodesesion5",
+    "securep",
+    "selectdisp",
+    "welocmep"
   ]
 }
