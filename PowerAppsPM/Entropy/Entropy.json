@@ -1,14 +1,28 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "crearcuenta": 4,
+    "Host": 3,
+    "Logo": 5
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "07/11/2023 20:04:39",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "images": "0001.jpg",
+    "images_1": "0002.jpg",
+    "Screenshot 2023-07-11 142754": "0003.png"
+  },
+  "LocalResourceRootPaths": {
+    "images": "https://docserverpwaprodeus.blob.core.windows.net/4f92935e-ee9d-4a50-9c42-fe0b249d56e3-1/resource/Assets0Images00001.jpg?sv=2018-03-28&sr=b&sig=PLW1bUTvJ0XxcMVymH%2B8T5lpZKABqptdHtE92ecZxqE%3D&spr=https&se=2023-07-12T20%3A19%3A04Z&sp=r",
+    "images_1": "https://docserverpwaprodeus.blob.core.windows.net/4f92935e-ee9d-4a50-9c42-fe0b249d56e3-1/resource/Assets0Images00002.jpg?sv=2018-03-28&sr=b&sig=QLu%2BeAcvMflEIOkuqvJFb4kPYEXIzrIU2VGSQEdQzDU%3D&spr=https&se=2023-07-12T20%3A19%3A04Z&sp=r",
+    "Screenshot 2023-07-11 142754": "https://docserverpwaprodeus.blob.core.windows.net/4f92935e-ee9d-4a50-9c42-fe0b249d56e3-1/resource/Assets0Images00003.png?sv=2018-03-28&sr=b&sig=OWT6YhByfNKZl9k2Xr%2FX1QxWVN5va1qNtjrjZs0pJh8%3D&spr=https&se=2023-07-12T20%3A19%3A04Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
@@ -16,11 +30,33 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "crearcuenta": {},
+    "Host": {},
+    "Logo": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "crearcuenta": 3,
+    "Host": 0,
+    "Logo": 4
+  },
+  "ResourcesJsonIndices": {
+    "Image-images": 0,
+    "Image-images_1": 1,
+    "Image-Screenshot 2023-07-11 142754": 2
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0408478,
+    "ControlCount": {
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.5283714
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }
