@@ -1,0 +1,114 @@
+emailp As screen:
+    Fill: =RGBA(204, 228, 246, 1)
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    Image4 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =278
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='logo png_10'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =261
+        X: =184
+        ZIndex: =1
+
+    Label17 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =30
+        Text: ="Choose your email address"
+        Width: =560
+        X: =34
+        Y: =307
+        ZIndex: =2
+
+    Radio1 As radio:
+        BorderColor: =RGBA(127, 178, 57, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        Height: =232
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Items: =["example.1@gmail.com","exmaple.2@gmial.com", "example.3@gmail.com"]
+        PaddingBottom: =5
+        PaddingTop: =5
+        PressedColor: =RGBA(50, 49, 48, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        RadioBorderColor: =RGBA(99, 139, 44, 1)
+        RadioSelectionFill: =RGBA(127, 178, 57, 1)
+        Size: =28
+        Width: =588
+        X: =52
+        Y: =454
+        ZIndex: =3
+
+    Label18 As label:
+        BorderColor: =RGBA(187, 221, 140, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =17
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        Fill: =RGBA(187, 221, 140, 1)
+        FocusedBorderThickness: =17
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =28
+        Text: ="Use your email address"
+        Width: =560
+        X: =34
+        Y: =749
+        ZIndex: =4
+
+    Button3 As button:
+        BorderColor: =RGBA(251, 188, 159, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        Color: =RGBA(118, 0, 0, 1)
+        DisabledBorderColor: =RGBA(251, 188, 159, 1)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(251, 188, 159, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =62
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(securep)
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Next"
+        Width: =260
+        X: =356
+        Y: =1040
+        ZIndex: =5
+

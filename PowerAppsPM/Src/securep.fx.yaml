@@ -20,35 +20,6 @@ securep As screen:
         Y: =6
         ZIndex: =1
 
-    TextInput9 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =48
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =36
-        Width: =596
-        X: =21
-        Y: =349
-        ZIndex: =2
-
     Checkbox1 As checkbox:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -166,4 +137,22 @@ securep As screen:
         X: =21
         Y: =615
         ZIndex: =8
+
+    Label10 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =34
+        Text: ="Create a secure key"
+        Width: =560
+        X: =39
+        Y: =322
+        ZIndex: =9
 
