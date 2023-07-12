@@ -666,6 +666,18 @@
               "message": {
                 "text": "Error al ejecutar la regla app-InefficientDelayLoading."
               }
+            },
+            {
+              "associatedRule": {
+                "id": "app-InefficientDelayLoading",
+                "index": 3
+              },
+              "descriptor": {
+                "id": "app-InefficientDelayLoading"
+              },
+              "message": {
+                "text": "Error al ejecutar la regla app-InefficientDelayLoading."
+              }
             }
           ]
         }
@@ -956,19 +968,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "RegistrodeSesión1.TextInput1.AccessibleLabel"
+                  "fullyQualifiedName": "Registrodesesion1.TextInput1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "RegistrodeSesión1.TextInput1.AccessibleLabel",
+                  "fullyQualifiedName": "Registrodesesion1.TextInput1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "RegistrodeSesión1",
-                "type": "RegistrodeSesión1.TextInput1"
+                "module": "Registrodesesion1",
+                "type": "Registrodesesion1.TextInput1"
               }
             }
           ],
@@ -986,19 +998,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "RegistrodeSesión1.TextInput1_1.AccessibleLabel"
+                  "fullyQualifiedName": "Registrodesesion1.TextInput1_1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "RegistrodeSesión1.TextInput1_1.AccessibleLabel",
+                  "fullyQualifiedName": "Registrodesesion1.TextInput1_1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "RegistrodeSesión1",
-                "type": "RegistrodeSesión1.TextInput1_1"
+                "module": "Registrodesesion1",
+                "type": "Registrodesesion1.TextInput1_1"
               }
             }
           ],
