@@ -20,64 +20,6 @@ creatp As screen:
         Y: =24
         ZIndex: =1
 
-    TextInput4 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =7
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =70
-        HoverBorderColor: =RGBA(187, 221, 140, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(187, 221, 140, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =7
-        RadiusBottomRight: =7
-        RadiusTopLeft: =7
-        RadiusTopRight: =7
-        Size: =34
-        Width: =560
-        X: =42
-        Y: =366
-        ZIndex: =2
-
-    TextInput5 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =56
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =34
-        Width: =430
-        X: =16
-        Y: =500
-        ZIndex: =3
-
     TextInput6 As text:
         BorderColor: =RGBA(187, 221, 140, 1)
         BorderThickness: =7
@@ -144,7 +86,7 @@ creatp As screen:
         BorderThickness: =4
         Color: =RGBA(118, 0, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledColor: =RGBA(118, 0, 0, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
         Fill: =RGBA(251, 188, 159, 1)
         Font: =Font.'Courier New'
@@ -153,7 +95,7 @@ creatp As screen:
         HoverBorderColor: =RGBA(251, 188, 159, 1)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =
+        OnSelect: =Navigate(basicp)
         PressedBorderColor: =RGBA(251, 188, 159, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(251, 188, 159, 1)
@@ -167,4 +109,40 @@ creatp As screen:
         X: =322
         Y: =1013
         ZIndex: =6
+
+    Label7 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =52
+        Size: =34
+        Text: ="Creat an account"
+        Width: =469
+        X: =100
+        Y: =322
+        ZIndex: =7
+
+    Label8 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =34
+        Text: ="Enter your name"
+        Width: =560
+        X: =16
+        Y: =486
+        ZIndex: =8
 
