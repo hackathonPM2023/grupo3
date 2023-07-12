@@ -3,24 +3,6 @@ Registrodesesion1 As screen:
         =RGBA(204, 228, 246, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Image7_1 As image:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =274
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: ='logo png_5'
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =322
-        X: =149
-        Y: =42
-        ZIndex: =1
-
     Label1 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -36,65 +18,6 @@ Registrodesesion1 As screen:
         Width: =640
         Y: =857
         ZIndex: =2
-
-    TextInput1 As text:
-        BorderColor: =RGBA(99, 139, 44, 1)
-        BorderThickness: =7
-        Color: =RGBA(50, 49, 48, 1)
-        Default: =""
-        DisabledBorderColor: =RGBA(99, 139, 44, 1)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(209, 232, 178, 1)
-        Fill: =RGBA(187, 221, 140, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        HintText: ="Username or Gmail"
-        HoverBorderColor: =RGBA(99, 139, 44, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(209, 232, 178, 1)
-        PressedBorderColor: =RGBA(99, 139, 44, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(209, 232, 178, 1)
-        RadiusBottomLeft: =17
-        RadiusBottomRight: =17
-        RadiusTopLeft: =17
-        RadiusTopRight: =17
-        Size: =21
-        Width: =560
-        X: =30
-        Y: =416
-        ZIndex: =4
-
-    TextInput1_1 As text:
-        BorderColor: =RGBA(99, 139, 44, 1)
-        BorderThickness: =7
-        Color: =RGBA(50, 49, 48, 1)
-        Default: =""
-        DisabledBorderColor: =RGBA(99, 139, 44, 1)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(209, 232, 178, 1)
-        Fill: =RGBA(187, 221, 140, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        Height: =70
-        HintText: ="Password"
-        HoverBorderColor: =RGBA(99, 139, 44, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(209, 232, 178, 1)
-        Mode: =TextMode.Password
-        PressedBorderColor: =RGBA(99, 139, 44, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(209, 232, 178, 1)
-        RadiusBottomLeft: =17
-        RadiusBottomRight: =17
-        RadiusTopLeft: =17
-        RadiusTopRight: =17
-        Size: =21
-        Width: =560
-        X: =30
-        Y: =558
-        ZIndex: =5
 
     Button8_1 As button:
         BorderColor: =RGBA(250, 155, 112, 1)
