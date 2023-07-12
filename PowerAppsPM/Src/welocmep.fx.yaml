@@ -19,138 +19,24 @@ welocmep As screen:
         X: =190
         ZIndex: =1
 
-    TextInput14 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =2
-        Color: =RGBA(255, 191, 0, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Great Vibes'
-        FontWeight: =FontWeight.Semibold
-        Height: =300
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =98
-        Width: =492
-        X: =90
-        Y: =232
-        ZIndex: =2
-
-    TextInput15 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =88
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =28
-        Width: =475
-        Y: =518
-        ZIndex: =3
-
-    TextInput16 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =78
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =28
-        Width: =636
-        Y: =580
-        ZIndex: =4
-
-    TextInput17 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderThickness: =2
-        Color: =RGBA(255, 191, 0, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Great Vibes'
-        FontWeight: =FontWeight.Semibold
-        Height: =208
-        HoverBorderColor: =RGBA(16, 110, 190, 1)
-        HoverColor: =RGBA(50, 49, 48, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 120, 212, 1)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =98
-        Width: =485
-        X: =97
-        Y: =720
-        ZIndex: =5
-
     Button15 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =4
-        Color: =RGBA(0, 0, 0, 1)
+        Color: =RGBA(118, 0, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(250, 155, 112, 1)
+        Fill: =RGBA(251, 188, 159, 1)
         Font: =Font.'Courier New'
         FontWeight: =FontWeight.Semibold
         Height: =70
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(16, 110, 190, 1)
-        PressedBorderColor: =RGBA(0, 69, 120, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
         RadiusBottomLeft: =102
         RadiusBottomRight: =102
         RadiusTopLeft: =102
@@ -161,4 +47,73 @@ welocmep As screen:
         X: =342
         Y: =1032
         ZIndex: =6
+
+    Label13 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(255, 191, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Dancing Script'
+        FontWeight: =FontWeight.Semibold
+        Height: =209
+        Size: =98
+        Text: ="Welcome"
+        Width: =496
+        X: =71
+        Y: =249
+        ZIndex: =7
+
+    Label14 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =28
+        Text: ="You can now start"
+        Width: =560
+        Y: =510
+        ZIndex: =8
+
+    Label15 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        Size: =28
+        Text: ="Scheduling your timetables"
+        Width: =560
+        Y: =580
+        ZIndex: =9
+
+    Label16 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(255, 191, 0, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Dancing Script'
+        Height: =323
+        Size: =98
+        Text: ="¡Enjoy!"
+        Width: =489
+        X: =114
+        Y: =679
+        ZIndex: =10
 
