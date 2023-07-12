@@ -19,3 +19,151 @@ Registrodesesion3 As screen:
         Y: =76
         ZIndex: =1
 
+    Label4 As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        FontWeight: =FontWeight.Bold
+        Height: =70
+        Size: =45
+        Text: ="Timebi"
+        Width: =640
+        Y: =76
+        ZIndex: =2
+
+    Label5 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        Height: =150
+        Size: =30
+        Text: ="Help my child manage this account until the estimated age. "
+        Width: =560
+        X: =60
+        Y: =213
+        ZIndex: =3
+
+    Arrow2_5 As arrow.backArrow:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =77
+        Width: =68
+        X: =12
+        Y: =12
+        ZIndex: =4
+
+    Icon5 As icon.Person:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(245, 245, 245, 1)
+        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =80
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Person
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =87
+        X: =35
+        Y: =487
+        ZIndex: =5
+
+    Icon6 As icon.Clock:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(245, 245, 245, 1)
+        DisabledColor: =RGBA(225, 223, 221, 1)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =99
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(16, 110, 190, 1)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Icon: =Icon.Clock
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedColor: =RGBA(16, 110, 190, 1)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =96
+        X: =35
+        Y: =746
+        ZIndex: =6
+
+    Label5_1 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        Height: =150
+        Size: =25
+        Text: ="Manage your child`s account and privacy setttings."
+        Width: =452
+        X: =157
+        Y: =452
+        ZIndex: =7
+
+    Label5_2 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        Height: =150
+        Size: =25
+        Text: ="Limit screen time on supervised devices whit Timebi. "
+        Width: =452
+        X: =157
+        Y: =720
+        ZIndex: =8
+
+    Button8_5 As button:
+        BorderColor: =RGBA(250, 155, 112, 1)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        Color: =RGBA(172, 62, 11, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(251, 188, 159, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =64
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(childaccp)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Yes, continue "
+        Width: =266
+        X: =324
+        Y: =934
+        ZIndex: =9
+
