@@ -1,9 +1,16 @@
 {
   "ControlStates": {
-    "Aplicación1": {
+    "Registrodesesion4": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
-        "Fill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "RGBA(255, 255, 255, 1)",
+          "InvariantPropertyName": "Fill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "ImagePosition",
         "Height",
         "Width",
@@ -20,7 +27,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Aplicación1",
+      "Name": "Registrodesesion4",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -69,5 +76,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Aplicación1"
+  "TopParentName": "Registrodesesion4"
 }
