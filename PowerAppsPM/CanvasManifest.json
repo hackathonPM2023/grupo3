@@ -131,18 +131,16 @@
     "UserLocale": "es-ES"
   },
   "ScreenOrder": [
-    "Aplicación1",
-    "RegistrodeSesión",
-    "registrodesesion5",
-    "securep",
     "childaccp",
-    "selectdisp",
-    "welocmep",
     "creatp",
     "Logo",
     "Registrodesesion1",
     "Registrodesesion2",
     "Registrodesesion3",
-    "Registrodesesion4"
+    "Registrodesesion4",
+    "registrodesesion5",
+    "securep",
+    "selectdisp",
+    "welocmep"
   ]
 }
