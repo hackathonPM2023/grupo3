@@ -19,24 +19,6 @@ Registrodesesion3 As screen:
         Y: =76
         ZIndex: =1
 
-    Label4 As label:
-        Align: =Align.Center
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.Georgia
-        FontWeight: =FontWeight.Bold
-        Height: =70
-        Size: =45
-        Text: ="Timebi"
-        Width: =640
-        Y: =76
-        ZIndex: =2
-
     Label5 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
