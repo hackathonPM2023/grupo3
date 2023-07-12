@@ -20,36 +20,6 @@ Logo As screen:
         Y: =102
         ZIndex: =1
 
-    TextInput2 As text:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(0, 0, 0, 1)
-        Default: ="Entrada de texto"
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Bold
-        Height: =73
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(0, 0, 0, 1)
-        HoverFill: =RGBA(255, 255, 255, 1)
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedColor: =RGBA(50, 49, 48, 1)
-        PressedFill: =RGBA(255, 255, 255, 1)
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Size: =21
-        Width: =173
-        X: =216
-        Y: =842
-        ZIndex: =2
-
     Label2 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
