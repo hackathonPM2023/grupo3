@@ -32,7 +32,7 @@ childaccp As screen:
         FocusedBorderThickness: =4
         Font: =Font.'Courier New'
         FontWeight: =FontWeight.Semibold
-        Height: =63
+        Height: =47
         HoverBorderColor: =RGBA(16, 110, 190, 1)
         HoverColor: =RGBA(50, 49, 48, 1)
         HoverFill: =RGBA(255, 255, 255, 1)
@@ -44,7 +44,7 @@ childaccp As screen:
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =30
-        Width: =628
+        Width: =620
         Y: =354
         ZIndex: =2
 

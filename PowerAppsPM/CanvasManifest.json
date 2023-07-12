@@ -132,11 +132,12 @@
   },
   "ScreenOrder": [
     "Aplicación1",
-    "childaccp",
+    "RegistrodeSesión",
     "registrodesesion5",
     "securep",
+    "childaccp",
     "selectdisp",
     "welocmep",
-    "RegistrodeSesión"
+    "creatp"
   ]
 }

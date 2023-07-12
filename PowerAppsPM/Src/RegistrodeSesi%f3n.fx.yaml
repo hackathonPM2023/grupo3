@@ -21,22 +21,6 @@ RegistrodeSesión As screen:
         Y: =42
         ZIndex: =1
 
-    Label1 As label:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =2
-        Color: =RGBA(50, 49, 48, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
-        FontWeight: =FontWeight.Bold
-        Size: =21
-        Text: ="_______________________________________________________"
-        Width: =640
-        Y: =857
-        ZIndex: =2
-
     TextInput1 As text:
         BorderColor: =RGBA(99, 139, 44, 1)
         BorderThickness: =7
