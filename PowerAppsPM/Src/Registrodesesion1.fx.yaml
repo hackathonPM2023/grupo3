@@ -13,7 +13,7 @@ Registrodesesion1 As screen:
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
         FontWeight: =FontWeight.Bold
-        Size: =21
+        Size: =23
         Text: ="_______________________________________________________"
         Width: =640
         Y: =857
@@ -78,4 +78,81 @@ Registrodesesion1 As screen:
         X: =187
         Y: =944
         ZIndex: =11
+
+    TextInput1_6 As text:
+        BorderColor: =RGBA(99, 139, 44, 1)
+        BorderThickness: =7
+        Color: =RGBA(50, 49, 48, 1)
+        Default: =""
+        DisabledBorderColor: =RGBA(99, 139, 44, 1)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(209, 232, 178, 1)
+        Fill: =RGBA(187, 221, 140, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =70
+        HintText: ="Username or gmail "
+        HoverBorderColor: =RGBA(99, 139, 44, 1)
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        PressedBorderColor: =RGBA(99, 139, 44, 1)
+        PressedColor: =RGBA(50, 49, 48, 1)
+        PressedFill: =RGBA(209, 232, 178, 1)
+        RadiusBottomLeft: =17
+        RadiusBottomRight: =17
+        RadiusTopLeft: =17
+        RadiusTopRight: =17
+        Size: =21
+        Width: =560
+        X: =30
+        Y: =457
+        ZIndex: =12
+
+    TextInput1_7 As text:
+        BorderColor: =RGBA(99, 139, 44, 1)
+        BorderThickness: =7
+        Color: =RGBA(50, 49, 48, 1)
+        Default: =""
+        DisabledBorderColor: =RGBA(99, 139, 44, 1)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(209, 232, 178, 1)
+        Fill: =RGBA(187, 221, 140, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.'Segoe UI'
+        Height: =70
+        HintText: ="Password"
+        HoverBorderColor: =RGBA(99, 139, 44, 1)
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(209, 232, 178, 1)
+        Mode: =TextMode.Password
+        PressedBorderColor: =RGBA(99, 139, 44, 1)
+        PressedColor: =RGBA(50, 49, 48, 1)
+        PressedFill: =RGBA(209, 232, 178, 1)
+        RadiusBottomLeft: =17
+        RadiusBottomRight: =17
+        RadiusTopLeft: =17
+        RadiusTopRight: =17
+        Size: =21
+        Width: =560
+        X: =30
+        Y: =577
+        ZIndex: =13
+
+    Image7_4 As image:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =259
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: ='logo png_5'
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =280
+        X: =187
+        Y: =62
+        ZIndex: =14
 

@@ -2,36 +2,6 @@ registrodesesion5 As screen:
     Fill: =RGBA(204, 228, 246, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Button8_4 As button:
-        BorderColor: =RGBA(250, 155, 112, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(172, 62, 11, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =64
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(childaccp)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =24
-        Text: ="Complete"
-        Width: =266
-        X: =336
-        Y: =954
-        ZIndex: =9
-
     Arrow2_9 As arrow.backArrow:
         BorderColor: =RGBA(0, 0, 0, 0)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -54,14 +24,99 @@ registrodesesion5 As screen:
         DisabledFill: =RGBA(242, 242, 241, 0)
         Fill: =RGBA(245, 245, 245, 1)
         Font: =Font.'Segoe UI'
-        Height: =70
+        Height: =73
         HoverDateFill: =RGBA(184, 187, 184, 1)
         IconBackground: =RGBA(0, 120, 212, 1)
         PaddingTop: =5
         SelectedDateFill: =RGBA(0, 120, 212, 1)
         Size: =21
-        Width: =575
-        X: =27
-        Y: =605
+        Width: =567
+        X: =35
+        Y: =362
         ZIndex: =11
+
+    Label4 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        Height: =86
+        Size: =45
+        Text: ="Basic Information "
+        Width: =506
+        X: =80
+        Y: =89
+        ZIndex: =12
+
+    Label5_3 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        Height: =133
+        Size: =25
+        Text: ="Choose your child`s date of birth"
+        Width: =532
+        X: =31
+        Y: =244
+        ZIndex: =13
+
+    Label5_4 As label:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =2
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        FocusedBorderThickness: =4
+        Font: =Font.Georgia
+        Height: =90
+        Size: =25
+        Text: ="Gender "
+        Width: =452
+        X: =35
+        Y: =509
+        ZIndex: =14
+
+    Dropdown5 As dropdown:
+        BorderColor: =RGBA(245, 245, 245, 1)
+        ChevronBackground: =RGBA(245, 245, 245, 1)
+        ChevronDisabledBackground: =RGBA(242, 242, 241, 0)
+        ChevronDisabledFill: =RGBA(161, 159, 157, 1)
+        ChevronFill: =RGBA(50, 49, 48, 1)
+        ChevronHoverBackground: =RGBA(245, 245, 245, 1)
+        ChevronHoverFill: =RGBA(50, 49, 48, 1)
+        Color: =RGBA(50, 49, 48, 1)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(245, 245, 245, 1)
+        Font: =Font.'Segoe UI'
+        Height: =70
+        HoverBorderColor: =RGBA(16, 110, 190, 1)
+        HoverColor: =RGBA(50, 49, 48, 1)
+        HoverFill: =RGBA(245, 245, 245, 1)
+        Items: =["Feminine","Masculine"]
+        PaddingBottom: =5
+        PaddingLeft: =12
+        PaddingRight: =5
+        PaddingTop: =5
+        PressedBorderColor: =RGBA(16, 110, 190, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionColor: =RGBA(50, 49, 48, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =21
+        Width: =575
+        X: =35
+        Y: =599
+        ZIndex: =15
 
