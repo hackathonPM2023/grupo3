@@ -4,8 +4,6 @@
   "ControlUniqueIds": {
     "App": 1,
     "Arrow2_3": 5,
-    "Arrow2_4": 34,
-    "Arrow2_5": 67,
     "Button10": 46,
     "Button11": 23,
     "Button12": 19,
@@ -69,7 +67,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/12/2023 19:34:36",
+  "HeaderLastSavedDateTimeUTC": "07/12/2023 19:35:42",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -111,8 +109,6 @@
   "OverridablePropertiesEntry": {
     "App": {},
     "Arrow2_3": {},
-    "Arrow2_4": {},
-    "Arrow2_5": {},
     "Button10": {},
     "Button11": {},
     "Button12": {},
@@ -179,8 +175,6 @@
   "PublishOrderIndices": {
     "App": 0,
     "Arrow2_3": 4,
-    "Arrow2_4": 29,
-    "Arrow2_5": 29,
     "Button10": 3,
     "Button11": 20,
     "Button12": 16,
