@@ -141,7 +141,7 @@ Registrodesesion1 As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(childaccp)
+        OnSelect: =Navigate(Registrodesesion2)
         PressedBorderColor: =RGBA(251, 188, 159, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(251, 188, 159, 1)

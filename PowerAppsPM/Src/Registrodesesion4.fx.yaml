@@ -1,4 +1,4 @@
-Registrodeseseon4 As screen:
+Registrodesesion4 As screen:
     Fill: |
         =RGBA(204, 228, 246, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
@@ -115,7 +115,7 @@ Registrodeseseon4 As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
+        Font: =Font.Georgia
         Height: =70
         Size: =37
         Text: ="Create your Timebi "
@@ -133,7 +133,7 @@ Registrodeseseon4 As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Segoe UI'
+        Font: =Font.Georgia
         Height: =70
         Size: =36
         Text: ="account"
@@ -151,6 +151,7 @@ Registrodeseseon4 As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
+        Font: =Font.Georgia
         Height: =70
         Size: =36
         Text: ="Enter your child's name"

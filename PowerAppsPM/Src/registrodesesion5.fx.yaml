@@ -2,17 +2,6 @@ registrodesesion5 As screen:
     Fill: =RGBA(204, 228, 246, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Arrow2_3 As arrow.backArrow:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 1)
-        Fill: =RGBA(0, 0, 0, 1)
-        Height: =77
-        Width: =68
-        X: =20
-        Y: =25
-        ZIndex: =5
-
     Button8_4 As button:
         BorderColor: =RGBA(250, 155, 112, 1)
         BorderStyle: =BorderStyle.None
@@ -42,4 +31,17 @@ registrodesesion5 As screen:
         X: =336
         Y: =954
         ZIndex: =9
+
+    Arrow2_9 As arrow.backArrow:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(0, 0, 0, 1)
+        Height: =77
+        OnSelect: |
+            =Navigate(Registrodesesion4)
+        Width: =68
+        X: =12
+        Y: =12
+        ZIndex: =10
 
