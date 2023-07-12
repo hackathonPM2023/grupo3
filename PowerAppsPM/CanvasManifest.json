@@ -133,10 +133,11 @@
   "ScreenOrder": [
     "Logo",
     "childaccp",
+    "RegistrodeSesión1",
+    "Registrodesesion2",
     "registrodesesion5",
     "securep",
     "selectdisp",
-    "welocmep",
-    "RegistrodeSesión"
+    "welocmep"
   ]
 }

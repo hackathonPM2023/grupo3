@@ -1,4 +1,4 @@
-RegistrodeSesión As screen:
+RegistrodeSesión1 As screen:
     Fill: |
         =RGBA(204, 228, 246, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
@@ -101,7 +101,7 @@ RegistrodeSesión As screen:
         BorderStyle: =BorderStyle.None
         BorderThickness: =7
         DisabledBorderColor: =RGBA(250, 155, 112, 1)
-        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledColor: =RGBA(153, 153, 153, 1)
         DisabledFill: =RGBA(250, 155, 112, 1)
         Fill: =RGBA(251, 188, 159, 1)
         Font: =Font.'Segoe UI'
