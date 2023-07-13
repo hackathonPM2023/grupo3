@@ -19,66 +19,6 @@ Registrodesesion1 As screen:
         Y: =857
         ZIndex: =2
 
-    Button8_1 As button:
-        BorderColor: =RGBA(250, 155, 112, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(172, 62, 11, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =64
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(childaccp)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =24
-        Text: ="Log in"
-        Width: =266
-        X: =177
-        Y: =763
-        ZIndex: =10
-
-    Button8_2 As button:
-        BorderColor: =RGBA(250, 155, 112, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(172, 62, 11, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =64
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(Registrodesesion2)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =24
-        Text: ="Register"
-        Width: =266
-        X: =187
-        Y: =944
-        ZIndex: =11
-
     TextInput1_6 As text:
         BorderColor: =RGBA(99, 139, 44, 1)
         BorderThickness: =7
@@ -155,4 +95,62 @@ Registrodesesion1 As screen:
         X: =187
         Y: =62
         ZIndex: =14
+
+    Button15_13 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(255, 102, 204, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(Registrodesesion2)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Register"
+        Width: =280
+        X: =170
+        Y: =915
+        ZIndex: =15
+
+    Button15_14 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(255, 102, 204, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(aplicacion1)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Log In"
+        Width: =280
+        X: =170
+        Y: =757
+        ZIndex: =16
 

@@ -2,66 +2,6 @@ aplicacion1 As screen:
     Fill: =RGBA(204, 228, 246, 1)
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
 
-    Button8_9 As button:
-        BorderColor: =RGBA(250, 155, 112, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(172, 62, 11, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =67
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(Registrodesesion3)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =24
-        Text: ="day"
-        Width: =156
-        X: =30
-        Y: =74
-        ZIndex: =3
-
-    Button8_11 As button:
-        BorderColor: =RGBA(250, 155, 112, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(172, 62, 11, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =67
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(Registrodesesion3)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =28
-        Text: ="week"
-        Width: =156
-        X: =231
-        Y: =74
-        ZIndex: =5
-
     Button8_12 As button:
         BorderColor: =RGBA(250, 155, 112, 1)
         BorderStyle: =BorderStyle.None
@@ -170,4 +110,33 @@ aplicacion1 As screen:
             X: =58
             Y: =969
             ZIndex: =23
+
+    Button15_3 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(255, 102, 204, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(aplicacion1)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Next"
+        Width: =280
+        X: =129
+        Y: =72
+        ZIndex: =24
 

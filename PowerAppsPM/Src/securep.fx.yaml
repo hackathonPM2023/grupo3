@@ -46,36 +46,6 @@ securep As screen:
         Y: =690
         ZIndex: =5
 
-    Button8 As button:
-        BorderColor: =RGBA(250, 155, 112, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(172, 62, 11, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(161, 159, 157, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =64
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(childaccp)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =24
-        Text: ="Next"
-        Width: =266
-        X: =351
-        Y: =1034
-        ZIndex: =6
-
     TextInput2 As text:
         BorderColor: =RGBA(187, 221, 140, 1)
         BorderThickness: =7
@@ -155,4 +125,33 @@ securep As screen:
         X: =39
         Y: =322
         ZIndex: =9
+
+    Button15_6 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(255, 102, 204, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(selectdisp)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Next"
+        Width: =280
+        X: =342
+        Y: =1032
+        ZIndex: =10
 

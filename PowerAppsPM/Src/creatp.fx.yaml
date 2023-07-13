@@ -80,36 +80,6 @@ creatp As screen:
         Y: =656
         ZIndex: =5
 
-    Button2 As button:
-        BorderColor: =RGBA(251, 188, 159, 1)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =4
-        Color: =RGBA(118, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(118, 0, 0, 1)
-        DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
-        Font: =Font.'Courier New'
-        FontWeight: =FontWeight.Semibold
-        Height: =70
-        HoverBorderColor: =RGBA(251, 188, 159, 1)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =RGBA(251, 188, 159, 1)
-        OnSelect: =Navigate(basicp)
-        PressedBorderColor: =RGBA(251, 188, 159, 1)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =RGBA(251, 188, 159, 1)
-        RadiusBottomLeft: =102
-        RadiusBottomRight: =102
-        RadiusTopLeft: =102
-        RadiusTopRight: =102
-        Size: =24
-        Text: ="Next"
-        Width: =280
-        X: =322
-        Y: =1013
-        ZIndex: =6
-
     Label7 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -145,4 +115,33 @@ creatp As screen:
         X: =16
         Y: =486
         ZIndex: =8
+
+    Button15_11 As button:
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =4
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(161, 159, 157, 1)
+        DisabledFill: =RGBA(242, 242, 241, 0)
+        Fill: =RGBA(255, 102, 204, 1)
+        Font: =Font.'Courier New'
+        FontWeight: =FontWeight.Semibold
+        Height: =70
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(securep)
+        PressedBorderColor: =RGBA(251, 188, 159, 1)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(251, 188, 159, 1)
+        RadiusBottomLeft: =102
+        RadiusBottomRight: =102
+        RadiusTopLeft: =102
+        RadiusTopRight: =102
+        Size: =24
+        Text: ="Next"
+        Width: =280
+        X: =342
+        Y: =1032
+        ZIndex: =9
 

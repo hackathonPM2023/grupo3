@@ -67,19 +67,18 @@ basicp As screen:
         Y: =669
         ZIndex: =6
 
-    Button1 As button:
+    Button15_2 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =4
-        Color: =RGBA(118, 0, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(118, 0, 0, 1)
+        DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
+        Fill: =RGBA(255, 102, 204, 1)
         Font: =Font.'Courier New'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        HoverBorderColor: =RGBA(251, 188, 159, 1)
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(251, 188, 159, 1)
         OnSelect: =Navigate(emailp)
@@ -93,7 +92,7 @@ basicp As screen:
         Size: =24
         Text: ="Next"
         Width: =280
-        X: =332
-        Y: =1038
+        X: =342
+        Y: =1032
         ZIndex: =7
 

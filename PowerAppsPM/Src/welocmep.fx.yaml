@@ -23,17 +23,17 @@ welocmep As screen:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =4
-        Color: =RGBA(118, 0, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         DisabledFill: =RGBA(242, 242, 241, 0)
-        Fill: =RGBA(251, 188, 159, 1)
+        Fill: =RGBA(255, 102, 204, 1)
         Font: =Font.'Courier New'
         FontWeight: =FontWeight.Semibold
         Height: =70
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =RGBA(251, 188, 159, 1)
+        OnSelect: =Navigate(aplicacion1)
         PressedBorderColor: =RGBA(251, 188, 159, 1)
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(251, 188, 159, 1)
@@ -52,18 +52,18 @@ welocmep As screen:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =2
-        Color: =RGBA(255, 191, 0, 1)
+        Color: =RGBA(0, 0, 0, 1)
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Dancing Script'
         FontWeight: =FontWeight.Semibold
         Height: =209
-        Size: =98
+        Size: =89
         Text: ="Welcome"
         Width: =496
-        X: =71
-        Y: =249
+        X: =39
+        Y: =220
         ZIndex: =7
 
     Label14 As label:
@@ -74,13 +74,14 @@ welocmep As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
+        Font: =Font.'Dancing Script'
         FontWeight: =FontWeight.Semibold
         Height: =70
-        Size: =28
+        Size: =51
         Text: ="You can now start"
         Width: =560
-        Y: =510
+        X: =39
+        Y: =454
         ZIndex: =8
 
     Label15 As label:
@@ -91,13 +92,14 @@ welocmep As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
-        Font: =Font.'Courier New'
+        Font: =Font.'Dancing Script'
         FontWeight: =FontWeight.Semibold
-        Height: =70
-        Size: =28
+        Height: =153
+        Size: =51
         Text: ="Scheduling your timetables"
         Width: =560
-        Y: =580
+        X: =39
+        Y: =549
         ZIndex: =9
 
     Label16 As label:
@@ -109,11 +111,11 @@ welocmep As screen:
         DisabledColor: =RGBA(161, 159, 157, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Dancing Script'
-        Height: =323
-        Size: =98
+        Height: =299
+        Size: =89
         Text: ="¡Enjoy!"
         Width: =489
-        X: =114
-        Y: =679
+        X: =39
+        Y: =702
         ZIndex: =10
 
